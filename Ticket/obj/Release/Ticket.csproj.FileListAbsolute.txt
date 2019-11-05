@@ -1,0 +1,8 @@
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2014\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\bin\Release\Ticket.dll
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2014\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\bin\Release\Ticket.pdb
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2014\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\obj\Release\Ticket.dll
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2014\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\obj\Release\Ticket.pdb
+C:\Users\iramirez\Desktop\proTienda v.16\Ticket\bin\Release\Ticket.dll
+C:\Users\iramirez\Desktop\proTienda v.16\Ticket\bin\Release\Ticket.pdb
+C:\Users\iramirez\Desktop\proTienda v.16\Ticket\obj\Release\Ticket.dll
+C:\Users\iramirez\Desktop\proTienda v.16\Ticket\obj\Release\Ticket.pdb

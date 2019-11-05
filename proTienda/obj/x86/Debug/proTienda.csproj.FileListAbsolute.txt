@@ -1,0 +1,85 @@
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\bin\Debug\proTienda.exe.config
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\bin\Debug\proTienda.exe.manifest
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\bin\Debug\proTienda.application
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\bin\Debug\proTienda.exe
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\bin\Debug\proTienda.pdb
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\bin\Debug\Ticket.dll
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\bin\Debug\Ticket.pdb
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.csprojResolveAssemblyReference.cache
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Acercade.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.ConsultaReporte.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.AppConfig.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.frmBuscaProducto.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Cobrar.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.ConsultaVentas.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.InsProductos.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Login.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Users.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.frmVentas.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Menu.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Properties.Resources.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Splash.resources
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.csproj.GenerateResource.Cache
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.TrustInfo.xml
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.exe.manifest
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.application
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.exe
+C:\Users\iramirez\Desktop\proTienda v.16\proTienda\obj\x86\Debug\proTienda.pdb
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\bin\Debug\proTienda.exe.config
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.pdb
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\bin\Debug\proTienda.exe.manifest
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\bin\Debug\proTienda.application
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\bin\Debug\proTienda.exe
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\bin\Debug\proTienda.pdb
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\bin\Debug\Ticket.dll
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\bin\Debug\Ticket.pdb
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.csprojResolveAssemblyReference.cache
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Acercade.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.ConsultaReporte.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.AppConfig.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.frmBuscaProducto.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Cobrar.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.ConsultaVentas.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.InsProductos.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Login.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Users.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.frmVentas.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Menu.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Properties.Resources.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.Splash.resources
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.csproj.GenerateResource.Cache
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.TrustInfo.xml
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.exe.manifest
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.application
+D:\SISTEMAS INFORMATICOS\C#\proTienda v.16\proTienda\obj\x86\Debug\proTienda.exe
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.csprojAssemblyReference.cache
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.Acercade.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.ConsultaReporte.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.AppConfig.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.frmBuscaProducto.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.Cobrar.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.ConsultaVentas.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.InsProductos.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.Login.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.Users.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.frmVentas.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.Menu.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.Properties.Resources.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.Splash.resources
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.csproj.GenerateResource.cache
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.exe
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.pdb
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\bin\Debug\proTienda.exe.config
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\bin\Debug\proTienda.exe.manifest
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\bin\Debug\proTienda.application
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\bin\Debug\proTienda.exe
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\bin\Debug\proTienda.pdb
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\bin\Debug\Ticket.dll
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\bin\Debug\Ticket.pdb
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.csproj.CoreCompileInputs.cache
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.TrustInfo.xml
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.exe.manifest
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.application
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\proTienda\obj\x86\Debug\proTienda.csproj.CopyComplete

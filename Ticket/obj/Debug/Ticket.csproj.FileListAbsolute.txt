@@ -1,0 +1,60 @@
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda\Ticket\bin\Debug\Ticket.dll
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda\Ticket\bin\Debug\Ticket.pdb
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda\Ticket\obj\Debug\Ticket.dll
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda\Ticket\obj\Debug\Ticket.pdb
+C:\Users\israel\Documents\Visual Studio 2010\Projects\proTienda\Ticket\bin\Debug\Ticket.dll
+C:\Users\israel\Documents\Visual Studio 2010\Projects\proTienda\Ticket\bin\Debug\Ticket.pdb
+C:\Users\israel\Documents\Visual Studio 2010\Projects\proTienda\Ticket\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\israel\Documents\Visual Studio 2010\Projects\proTienda\Ticket\obj\Debug\Ticket.dll
+C:\Users\israel\Documents\Visual Studio 2010\Projects\proTienda\Ticket\obj\Debug\Ticket.pdb
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda\Ticket\obj\Debug\Ticket.csprojResolveAssemblyReference.cache
+C:\Users\israel\Documents\Visual Studio 2010\Projects\proTienda v.5\proTienda\Ticket\bin\Debug\Ticket.dll
+C:\Users\israel\Documents\Visual Studio 2010\Projects\proTienda v.5\proTienda\Ticket\bin\Debug\Ticket.pdb
+C:\Users\israel\Documents\Visual Studio 2010\Projects\proTienda v.5\proTienda\Ticket\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\israel\Documents\Visual Studio 2010\Projects\proTienda v.5\proTienda\Ticket\obj\Debug\Ticket.dll
+C:\Users\israel\Documents\Visual Studio 2010\Projects\proTienda v.5\proTienda\Ticket\obj\Debug\Ticket.pdb
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda v.5\proTienda v.5\proTienda\Ticket\bin\Debug\Ticket.dll
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda v.5\proTienda v.5\proTienda\Ticket\bin\Debug\Ticket.pdb
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda v.5\proTienda v.5\proTienda\Ticket\obj\Debug\Ticket.dll
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda v.5\proTienda v.5\proTienda\Ticket\obj\Debug\Ticket.pdb
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda v.6\proTienda v.6\proTienda\Ticket\bin\Debug\Ticket.dll
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda v.6\proTienda v.6\proTienda\Ticket\bin\Debug\Ticket.pdb
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda v.6\proTienda v.6\proTienda\Ticket\obj\Debug\Ticket.dll
+C:\Users\eduar\Desktop\Su Pro tienda\proTienda v.6\proTienda v.6\proTienda\Ticket\obj\Debug\Ticket.pdb
+C:\Users\eduar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.6\proTienda\Ticket\bin\Debug\Ticket.dll
+C:\Users\eduar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.6\proTienda\Ticket\bin\Debug\Ticket.pdb
+C:\Users\eduar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.6\proTienda\Ticket\obj\Debug\Ticket.dll
+C:\Users\eduar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.6\proTienda\Ticket\obj\Debug\Ticket.pdb
+C:\Users\eduar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\bin\Debug\Ticket.dll
+C:\Users\eduar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\bin\Debug\Ticket.pdb
+C:\Users\eduar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\obj\Debug\Ticket.dll
+C:\Users\eduar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\obj\Debug\Ticket.pdb
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\bin\Debug\Ticket.dll
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\bin\Debug\Ticket.pdb
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\obj\Debug\Ticket.dll
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2013\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\obj\Debug\Ticket.pdb
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2014\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\bin\Debug\Ticket.dll
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2014\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\bin\Debug\Ticket.pdb
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2014\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\obj\Debug\Ticket.dll
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2014\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\obj\Debug\Ticket.pdb
+C:\Users\edwar\Documents\UANL-FIME-MATERIAS-2014\Enero - Junio 2014\Proyecto Integrador\protienda integrador\proTienda v.9\proTienda\Ticket\obj\Debug\Ticket.csprojResolveAssemblyReference.cache
+C:\Users\iramirez\Downloads\Proyecto Integrador 1\Proyecto Integrador 1\PROTIENDA _ PROYECTO INTEGRADOR\protienda integrador\proTienda v.9\Ticket\bin\Debug\Ticket.dll
+C:\Users\iramirez\Downloads\Proyecto Integrador 1\Proyecto Integrador 1\PROTIENDA _ PROYECTO INTEGRADOR\protienda integrador\proTienda v.9\Ticket\bin\Debug\Ticket.pdb
+C:\Users\iramirez\Downloads\Proyecto Integrador 1\Proyecto Integrador 1\PROTIENDA _ PROYECTO INTEGRADOR\protienda integrador\proTienda v.9\Ticket\obj\Debug\Ticket.csprojResolveAssemblyReference.cache
+C:\Users\iramirez\Downloads\Proyecto Integrador 1\Proyecto Integrador 1\PROTIENDA _ PROYECTO INTEGRADOR\protienda integrador\proTienda v.9\Ticket\obj\Debug\Ticket.dll
+C:\Users\iramirez\Downloads\Proyecto Integrador 1\Proyecto Integrador 1\PROTIENDA _ PROYECTO INTEGRADOR\protienda integrador\proTienda v.9\Ticket\obj\Debug\Ticket.pdb
+C:\Users\iramirez\Desktop\proTienda v.9\Ticket\bin\Debug\Ticket.dll
+C:\Users\iramirez\Desktop\proTienda v.9\Ticket\bin\Debug\Ticket.pdb
+C:\Users\iramirez\Desktop\proTienda v.9\Ticket\obj\Debug\Ticket.dll
+C:\Users\iramirez\Desktop\proTienda v.9\Ticket\obj\Debug\Ticket.pdb
+C:\Users\iramirez\Desktop\proTienda v.16\Ticket\bin\Debug\Ticket.dll
+C:\Users\iramirez\Desktop\proTienda v.16\Ticket\bin\Debug\Ticket.pdb
+C:\Users\iramirez\Desktop\proTienda v.16\Ticket\obj\Debug\Ticket.dll
+C:\Users\iramirez\Desktop\proTienda v.16\Ticket\obj\Debug\Ticket.pdb
+C:\Users\iramirez\Desktop\proTienda v.16\Ticket\obj\Debug\Ticket.csprojResolveAssemblyReference.cache
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\Ticket\bin\Debug\Ticket.dll
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\Ticket\bin\Debug\Ticket.pdb
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\Ticket\obj\Debug\Ticket.csprojAssemblyReference.cache
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\Ticket\obj\Debug\Ticket.csproj.CoreCompileInputs.cache
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\Ticket\obj\Debug\Ticket.dll
+C:\Users\mayra\Desktop\Punto de Venta RAS-3M c\Ticket\obj\Debug\Ticket.pdb
